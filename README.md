@@ -73,11 +73,8 @@
 
 🎧 **What I’m Listening To**
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=killrydeofficial&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=155dbc&bar_color_cover=false" />
-  </a>
-</p>
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=lostastro&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=155dbc&bar_color_cover=false)](https://open.spotify.com/user/killrydeofficial)
+
 
 ---
 
