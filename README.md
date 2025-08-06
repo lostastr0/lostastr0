@@ -70,11 +70,12 @@
 - Planning to tackle tools like Metasploit, Nmap, and Bash/Shell scripting  
 - Future goals: gain experience in **software development**, study core computer science (algorithms, data structures), and pursue security certifications (CompTIA Security+, CEH)
 
+---
 
-🎧 **What I’m Listening To**
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=lostastro&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=155dbc&bar_color_cover=false)](https://open.spotify.com/user/killrydeofficial)
-
+<p align="center">
+  👀 **Profile Views**  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LostAstro.LostAstro" alt="Profile Views"/>
+</p>
 
 ---
 
