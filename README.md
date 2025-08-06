@@ -90,6 +90,6 @@
 
 ### 📊 GitHub Stats
 
-![Astro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LostAstro&show_icons=true&theme=tokyonight)
+![Astro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LostAstr0&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LostAstro&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LostAstr0&layout=compact&theme=tokyonight)
