@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Jaineel 👋</h1>
 <h3 align="center">💻 Aspiring Cyber Security & Computer Science Student</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oxHQq3b1Q9ApvZpTO/giphy.gif" width="200" alt="hacker gif"/>
-</p>
-
 ---
 
 🔍 **About Me**
@@ -45,7 +41,9 @@
 🎧 **What I’m Listening To**
 
 <p align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=killrydeofficial&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=155dbc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=killrydeofficial&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=155dbc&bar_color_cover=false" alt="spotify-github-profile" />
+  </a>
 </p>
 
 ---
