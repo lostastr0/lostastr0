@@ -72,10 +72,23 @@
 
 ---
 
-<p align="center">
-  👀 **Profile Views**  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LostAstro.LostAstro" alt="Profile Views"/>
-</p>
+---
+
+📚 **Learning Roadmap**
+
+- ⬜ Linux basics: navigating the terminal and file system  
+- ⬜ Network scanning: mastering Nmap and Wireshark  
+- ⬜ Bash scripting: automating tasks and simple scripts  
+- ⬜ Ethical hacking tools: Metasploit, Burp Suite  
+- ⬜ Vulnerability assessment and penetration testing basics  
+- ⬜ Security fundamentals: cryptography, hashing, and authentication  
+- ⬜ Incident response and documentation  
+- ⬜ Data structures and algorithms with Python  
+- ⬜ Virtualization: setting up and using VirtualBox/Kali Linux  
+- ⬜ Hands-on platforms: TryHackMe, Hack The Box challenges  
+
+---
+
 
 ---
 
