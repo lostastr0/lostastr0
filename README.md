@@ -72,7 +72,6 @@
 
 ---
 
----
 
 📚 **Learning Roadmap**
 
@@ -86,9 +85,6 @@
 - ⬜ Data structures and algorithms with Python  
 - ⬜ Virtualization: setting up and using VirtualBox/Kali Linux  
 - ⬜ Hands-on platforms: TryHackMe, Hack The Box challenges  
-
----
-
 
 ---
 
